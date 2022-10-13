@@ -1,4 +1,4 @@
-# Problem Solving Lab and Lab 1
+# Lab Set-up
 
 1. Once you've opened this repo via the GitHub classroom link, copy and paste the URL. Then head over to RStudio.
 2. In RStudio, click File > New Project > Version Control > Git
