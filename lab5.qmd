@@ -10,7 +10,7 @@ knitr:
 ---
 
 ```{r}
-#| warning: false
+#| warning: false 
 #| messages: false
 #| document: show
 library(tidyverse)
